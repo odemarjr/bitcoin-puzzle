@@ -1,0 +1,100 @@
+Moeda: Bitcoin
+Chave WIF (compactada): KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn
+Chave WIF (não compactada): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
+Endereço (compactado): 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+Endereço (não compactado): 1EHNa6Q4Jz2uvNExL497mE43ikXhwF6kZm
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Bitcoin SV
+Chave WIF (compactada): KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn
+Chave WIF (não compactada): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
+Endereço (compactado): 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+Endereço (não compactado): 1EHNa6Q4Jz2uvNExL497mE43ikXhwF6kZm
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Dash
+Chave WIF (compactada): XBHddvWWiMu3nZhhpTXBQWJMmdz5JNKJD85b9fgKAckCT2coW3Y4
+Chave WIF (não compactada): 7qYrzJZWqnyCWMYswFcqaRJypGdVceudXPSxmZKsngN7fyo7aAV
+Endereço (compactado): XmN7PQYWKn5MJFna5fRYgP6mxT2F7xpekE
+Endereço (não compactado): XoyDQM3xGhFW5JqYBwTLckjqZ67Q3jZfAL
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Dogecoin
+Chave WIF (compactada): QNcdLVw8fHkixm6NNyN6nVwxKek4u7qrioRbQmjxac5TVoTtZuot
+Chave WIF (não compactada): 6J8csdv3eDrnJcpSEb4shfjMh2JTiG9MKzC1Yfge4Y4GyUsjdM6
+Endereço (compactado): DFpN6QqFfUm3gKNaxN6tNcab1FArL9cZLE
+Endereço (não compactado): DJRU7MLhcPwCTNRZ4e8gJzDebtG1H5M7pc
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Litecoin
+Chave WIF (compactada): T33ydQRKp4FCW5LCLLUB7deioUMoveiwekdwUwyfRDeGZm76aUjV
+Chave WIF (não compactada): 6u823ozcyt2rjPH8Z2ErsSXJB5PPQwK7VVTwwN4mxLBFrao69XQ
+Endereço (compactado): LVuDpNCSSj6pQ7t9Pv6d6sUkLKoqDEVUnJ
+Endereço (não compactado): LYWKqJhtPeGyBAw7WC8R3F7ovxtzAiubdM
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Bitcoin
+Chave WIF (compactada): KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn
+Chave WIF (não compactada): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
+Endereço (compactado): 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+Endereço (não compactado): 1EHNa6Q4Jz2uvNExL497mE43ikXhwF6kZm
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Bitcoin SV
+Chave WIF (compactada): KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn
+Chave WIF (não compactada): 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreAnchuDf
+Endereço (compactado): 1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH
+Endereço (não compactado): 1EHNa6Q4Jz2uvNExL497mE43ikXhwF6kZm
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Dash
+Chave WIF (compactada): XBHddvWWiMu3nZhhpTXBQWJMmdz5JNKJD85b9fgKAckCT2coW3Y4
+Chave WIF (não compactada): 7qYrzJZWqnyCWMYswFcqaRJypGdVceudXPSxmZKsngN7fyo7aAV
+Endereço (compactado): XmN7PQYWKn5MJFna5fRYgP6mxT2F7xpekE
+Endereço (não compactado): XoyDQM3xGhFW5JqYBwTLckjqZ67Q3jZfAL
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Dogecoin
+Chave WIF (compactada): QNcdLVw8fHkixm6NNyN6nVwxKek4u7qrioRbQmjxac5TVoTtZuot
+Chave WIF (não compactada): 6J8csdv3eDrnJcpSEb4shfjMh2JTiG9MKzC1Yfge4Y4GyUsjdM6
+Endereço (compactado): DFpN6QqFfUm3gKNaxN6tNcab1FArL9cZLE
+Endereço (não compactado): DJRU7MLhcPwCTNRZ4e8gJzDebtG1H5M7pc
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
+Moeda: Litecoin
+Chave WIF (compactada): T33ydQRKp4FCW5LCLLUB7deioUMoveiwekdwUwyfRDeGZm76aUjV
+Chave WIF (não compactada): 6u823ozcyt2rjPH8Z2ErsSXJB5PPQwK7VVTwwN4mxLBFrao69XQ
+Endereço (compactado): LVuDpNCSSj6pQ7t9Pv6d6sUkLKoqDEVUnJ
+Endereço (não compactado): LYWKqJhtPeGyBAw7WC8R3F7ovxtzAiubdM
+Chave Pública (compactada): 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+Chave Pública (não compactada): 0479be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
+Chave Privada (Hex): 0000000000000000000000000000000000000000000000000000000000000001
+Chave Privada (Decimal): 1
+---------------
